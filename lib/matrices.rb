@@ -123,3 +123,6 @@ class Matriz
       end # while i
     end # while else
   
+    c
+  end
+end
