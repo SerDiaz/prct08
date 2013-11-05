@@ -1,0 +1,24 @@
+Propiedad de:
+Sergio Díaz González.
+Iván García Campos.
+
+En este fichero se comentaran los pasos que hemos seguido para la resolucion de la practica.
+
+En primer lugar, nos hemos creado ua cuenta en bitbucket y seguido los pasos indicados en el videotutorial.
+De esta forma, hemos compartido la carpeta con los profesores de la asignatura y nuestro compañero, hemos creado el archivo README y nos proponemos ahora, 
+realizar la clase fraccion.rb y todos sus metodos.
+
+"ejemplo de practicas prueba"
+
+Hemos realizado varios commit desde uno de los ordenadores, subido mediante el push al repositorio y utilizado esa información para trabajar en el otro ordenador 
+y subir la version definitiva.
+Hemos completado cada una de las funciones que se piden en la practica 6, procedemos ahora a llevar a cabo el apartado en el que se utiliza rake y pondremos algunos 
+puts para ver el funcionamiento de la practica.
+
+
+NOTA: la division se realizara mediante el metodo | y no /
+
+
+Hemos puesto las espectativas en el mismo repositorio. haremos ahora el Rakefile
+
+PRACTICA HECHA EN GRUPO
